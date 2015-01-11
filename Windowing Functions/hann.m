@@ -1,6 +1,6 @@
 function [ wind ] = hann(windowLength)
 %  --------------------------------------------------------------------------
-%   COPYRIGHT 2014 BLACK CAT SCIENCE, INC.
+%   COPYRIGHT 2015 BLACK CAT SCIENCE, INC.
 %   CONTACT INFORMATION: STEM@BLACKCATSCIENCE.COM
 %   WEBSITE: WWW.BLACKCATSCIENCE.COM
 %  --------------------------------------------------------------------------
